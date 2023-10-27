@@ -1,0 +1,342 @@
+    1  git --version
+    2  git config -- global user.email "siphesihleyende@gmail.com"
+    3  git config -- global user.name "Siphesihle Yende"
+    4  git version
+    5  git config -- global user.email "siphesihleyende@gmail.com"
+    6  git config --systems
+    7  git config --list --show-origin
+    8  git config -l
+    9  git config --global --user.name "sipihesihle"
+   10  git config --global init.defaultBranch main
+   11  git config --list
+   12  git config <key>: user.name
+   13  git conifg --show-origin rerere.autoupdate file:/home/Nyxodite/.gitconfig false
+   14  git config --show-origin rerere.autoupdate file:/home/Nyxodite/.gitconfig false
+   15  git config --system
+   16  /.config/git/config
+   17  .git/config
+   18  git config --global user.name "Siphesihle"
+   19  git config --global user.email "siphesihleyende@gmail.com"
+   20  git config --global init.defaultBranch main
+   21  git config --list
+   22  git config user.name siphesihle
+   23  git config user.name 
+   24  git config user.email
+   25  get help config
+   26  git help <verb>
+   27  git <verb> --help
+   28  git --help
+   29  git --help--config
+   30  git --help = config
+   31  cd C: /Users/user/my_project
+   32  cd C:/Users/user/my_paper
+   33  cd C:/Users/user/my_project git init
+   34  cd C:/Users/user/my_project
+   35  cd C:/Users/Nyxodite/Documents/Hello/my_projects
+   36  git init
+   37  cd
+   38  git clone https://github.com/libgit2/libgit2
+   39  git status
+   40  git --status
+   41  git ---status
+   42  cd C:/Users/Nyxodite/Documents/Hello/my_projects
+   43  git status
+   44  README
+   45  echo "My Project" > README
+   46  git status
+   47  git add README
+   48  git status
+   49  git add CONTRIBUTING.md
+   50  git status -s
+   51  cat.gitignore
+   52  cd
+   53  cat.gitignore
+   54  cat .gitignore
+   55  git diff
+   56  echo "My Projects"
+   57  echo ""My Projects">
+   58  README
+   59  cd
+   60  clr
+   61  git status
+   62  cd C:/Users/Nyxodite/Documents/Hello/my_projects
+   63  git status
+   64  git commit
+   65  git log
+   66  cd
+   67  echo "libgit2">
+   68  cd C:/Users/Nyxodite/libgit2
+   69  git log
+   70  git clone https://github.com/schacon/simpleit-progit
+   71  git clone https://github.com/schacon/simplegit-progit
+   72  git log
+   73  git log -p -2
+   74  git log --stat
+   75  git log --pretty=oneline
+   76  cd
+   77  ls
+   78  ls /data
+   79  ls /data bioinfo.course.data command_line_course galaxy lost+found refs
+   80  ls /
+   81  pwd
+   82  mkdir learning_unix
+   83  pwd
+   84  ls
+   85  ls command_line_course learning_unix linux_bootcamp
+   86  cd C:/Users/Nyxodite/learning_unix
+   87  mkdir Outer_directory
+   88  cd/Outer_directory
+   89  CD:/Outer_directory
+   90  echo "Outer-directory"
+   91  cd outer_directory
+   92  mkdir Inner_directory
+   93  cd Inner_directory
+   94  cd Nyxodite
+   95  cd outer_directory
+   96  q
+   97  cd Nyxodite
+   98  cd /Nyxodite
+   99  /lesarning_unix/Outer_directory/Inner_directory cd/
+  100  cd /Users/Nyxodite
+  101  cd/
+  102  cd /
+  103  cd Inner_directory
+  104  cd /Inner_directory
+  105  cd Nyxodite
+  106  cd /Nyxodite
+  107  cd C:/Users/Nyxodite
+  108  cd learning_unix
+  109  /learning_unix$ cd ..
+  110  /learning_unix cd..
+  111  cd.. learning_unix
+  112  learning_unix cd ..
+  113  cd learning_unix/
+  114  cd ../..
+  115  pwd
+  116  cd /
+  117  pwd
+  118  cd ~
+  119  cd Nyxodite
+  120  cd Users
+  121  pwd
+  122  learning_unix
+  123  cd learning_unix
+  124  cd
+  125  pwd
+  126  cd learning_unix
+  127  cd~
+  128  cd ~
+  129  pwd
+  130  cd learning_unix
+  131  cd /
+  132  pwd
+  133  pwd
+  134  cd ~/Hello
+  135  cd /
+  136  pwd
+  137  cd Hellp
+  138  cd Hello
+  139  cd /Hello
+  140  cd ~/hello
+  141  cd
+  142  1s
+  143  ls
+  144  cd /learning_unix
+  145  cd learning_unix
+  146  ls -l /Users
+  147  ls -l /Nyxodite
+  148  cd outer_directory
+  149   ls ../../
+  150  ls -l
+  151  cd ~
+  152  ls -l
+  153  ls -R
+  154  cd hello
+  155  ls -l -t -r
+  156  ls -lh
+  157  cd
+  158  ls -lh
+  159  man man
+  160  man ls
+  161  man
+  162  man ls
+  163  which man
+  164  man --version
+  165  pacman -Syu
+  166  pacman -Ss man
+  167  'pacman -S man-db
+  168  q
+  169  cd
+  170  cd ~`
+  171  exit
+  172  echo I want to leave
+  173  echo "let me go"
+  174  rmdir Inner_directory
+  175  cd outer_dirctory
+  176  cd /outer_directory
+  177  cd Outer_directory
+  178  cd Inner_directory
+  179  pwd
+  180  cd /Outer-directory
+  181  cd Outer_directory
+  182  cd Nyxodite
+  183  cd hello
+  184  cd ../
+  185  cd Outer_directory
+  186  learning_unix
+  187  cd learning_unix
+  188  rmdir outer_directory
+  189  cd outer_directpry
+  190  cd outer_directory
+  191  rmdir Inner_directory
+  192  ls
+  193  cd ../
+  194  cd ../
+  195  cd learning_unix
+  196  ls
+  197  ls lh
+  198  ls =lh
+  199  ls -lh
+  200  cd~
+  201  cd 
+  202  cd learning_unix/
+  203  touch heaven.txt
+  204  touch earth.txt
+  205  ls
+  206  mkdir Tenp
+  207  mv heaven.txt 
+  208  mv heaven.txt Tenp/
+  209  mv earth.txt Tenp/
+  210  ls
+  211  cd tenp
+  212  ls
+  213  ls
+  214  mv *.txt tenp/riches
+  215  touch rags
+  216  del rags
+  217  delete rags
+  218  rags -del
+  219  help
+  220  cd ../
+  221  touch house
+  222  ls
+  223  mv house tenp/riches
+  224  ls
+  225  cd tenp
+  226  ls
+  227  cd riches 
+  228  cd rags 
+  229  cd ../
+  230  cd riches
+  231  ls
+  232  cd tenp
+  233  cd riches
+  234  mv tenp/riches tenp/rags
+  235  ls
+  236  mkdir temp2
+  237  mv temp2 tenp/
+  238  ls
+  239  cd tep
+  240  cd tenp
+  241  ls
+  242  cd tenp
+  243  ls
+  244  cd ../
+  245  ls
+  246  rm -i earth.txt heaven.txt rags riches
+  247  ls
+  248  rmdir tenp/Temp3
+  249  cd ..
+  250  rmdir tenp/
+  251  cd tenp
+  252  ls
+  253  rmdir tenp
+  254  cd ../
+  255  ls
+  256  rmdir tenp
+  257  ls
+  258  touch file1
+  259  cp file1 file2
+  260  ls
+  261  touch ~/file3
+  262  ls ~
+  263  cp ~/file3
+  264  cp ~/file3 .
+  265  ls
+  266  ls.
+  267  ls
+  268  ls .
+  269  ls ./
+  270  rm -i file1 file2 file3
+  271  man cp
+  272  cd../../
+  273  cd../../
+  274  cd ../
+  275  man cp
+  276  mkdir git-basic-exercises
+  277  ls
+  278  cd git-basic-exercises
+  279  ls -a
+  280  git init
+  281  ls -a
+  282  git status
+  283  touch README.md
+  284  ls -a
+  285  git status
+  286  git log
+  287  git status
+  288  git add README.md
+  289  git status
+  290  git rm --cached README.md
+  291  git status
+  292  git add README.md
+  293  git status
+  294  git commit -m "initial commit"
+  295  git log
+  296  q
+  297  q
+  298  nano README.md
+  299  cat README.md
+  300  git status
+  301  git add README.md
+  302  git status
+  303  git commit -m "second commit"
+  304  nano README.md
+  305  cat README.md
+  306  git status
+  307  git commit -m "third commit"
+  308  git add README.md
+  309  git status
+  310  git commit -m "third commit"
+  311  git log
+  312  git checkout 356966c0ddace2a4bd3b2eccb5402fde1d086eb9
+  313  cat README.md
+  314  git checkout main
+  315  cat README.md
+  316  git checkout -b milkshake-flavours
+  317  git branch *
+  318  git checkout milkshake-flavours 
+  319  git checkout main
+  320  git branch *
+  321  git branch
+  322  git checkout milkshake-flavours
+  323  nano milkshake-flavours
+  324  git status
+  325  git add milkshake-flavours
+  326  git status
+  327  git commit -m "added initial flavours"
+  328  git log
+  329  git checkout main
+  330  git log
+  331  mkdir history
+  332  git checkout history
+  333  git log
+  334  ls -a
+  335  git log
+  336  git branch
+  337  rmdir history
+  338  ls -a
+  339  git checkout -b history
+  340  git log
+  341  git branch
+  342  history > history.txt
